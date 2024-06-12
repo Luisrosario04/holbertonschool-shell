@@ -1,2 +1,2 @@
 #!/bin/bash
-./4-lastlines
+./4-lastlines /ect/passed
