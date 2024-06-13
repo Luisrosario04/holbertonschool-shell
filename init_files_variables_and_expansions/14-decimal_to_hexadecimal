@@ -1,2 +1,2 @@
 #!/bin/bash
-printfc"%x\n" $DECACIMAL
+printf "%x\n" $DECACIMAL
